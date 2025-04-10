@@ -1,0 +1,60 @@
+# Node modules
+/node_modules/
+/client/node_modules/
+/server/node_modules/
+
+# Build output
+/client/build/
+/server/dist/
+
+# Logs
+*.log
+logs/
+log/
+
+# Dependency directories
+/package-lock.json
+/yarn.lock
+/client/package-lock.json
+/client/yarn.lock
+/server/package-lock.json
+/server/yarn.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Coverage reports (for testing)
+/coverage/
+
+# Next.js build output (if you're using Next.js in the client)
+.next/
+
+# TypeScript build outputs
+/client/.next/
+server/dist/
+
+# Babel cache (if applicable)
+.client/.babel/
+
+# Storybook build output
+.storybook/
+
+# React Native (if used)
+.expo/
+
+# Build output for other tools (e.g., parcel)
+.cache/
+
+# Miscellaneous
+*.tgz

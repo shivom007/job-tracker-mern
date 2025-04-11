@@ -8,9 +8,8 @@ import connectDB from "./config/db";
 import jobApplicationRoutes from "./routes/jobApplicationRoutes";
 
 const app = express();
-connectDB();
-app.use(express.json());
 
+app.use(express.json());
 app.use(helmet());
 app.use(compression());
 app.use(cors());

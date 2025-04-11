@@ -1,14 +1,5 @@
 # Job Tracker MERN
 
-![Version](https://img.shields.io/github/v/release/shivom007/job-tracker-mern)
-![Build Status](https://img.shields.io/github/actions/workflow/status/shivom007/job-tracker-mern/build.yml)
-![License](https://img.shields.io/github/license/shivom007/job-tracker-mern)
-![Issues](https://img.shields.io/github/issues/shivom007/job-tracker-mern)
-![Forks](https://img.shields.io/github/forks/shivom007/job-tracker-mern)
-![Stars](https://img.shields.io/github/stars/shivom007/job-tracker-mern)
-
----
-
 ## 📌 Description
 
 **Job Tracker MERN** is a full-stack web application designed to help users efficiently track their job applications. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it offers a seamless experience for managing job search activities.
